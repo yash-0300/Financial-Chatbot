@@ -10,7 +10,7 @@ A modern, interactive financial advisor chatbot powered by Groq's LLM API. Get p
 - 🎯 Personalized financial advice
 - 🎤 Voice input support
 - 💻 Responsive design
-- ⚡ Fast responses powered by Groq's Mixtral model
+- ⚡ Fast responses powered by Groq's Llama model
 - 🔒 Environment variable support for API key security
 
 ## Prerequisites
